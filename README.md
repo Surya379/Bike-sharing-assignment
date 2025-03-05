@@ -28,15 +28,23 @@ Technologies Used
 
 
 
-Conclusion
+Conclusion:
 Significant variables to predict the demand for shared bikes
 
 holiday
+
 temp
+
 hum
+
 windspeed
+
 Season
+
 months(January, July, September, November, December)
+
 Year (2019)
+
 Sunday
+
 weathersit( Light Snow, Mist + Cloudy)
